@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @aminaNBA
+- 👀 I’m interesting to web devlopement
+- 🌱 I’m currently learning JAVASCRIPT
