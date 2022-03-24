@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @aminaNBA
 - 👀 I’m interesting to web devlopement
 - 🌱 I’m currently learning ReactJs , my love is ALWAYS Javascript
-- @icn-camera I prepare to Full Stack Software Development Diploma
+- I prepare to Full Stack Software Development Diploma
